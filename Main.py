@@ -1,17 +1,12 @@
 import os
 import IPython
-import matplotlib
-import matplotlib.pyplot as plt
 import numpy as np
-import requests
 import torch
 import torchaudio
-import os
 import sounddevice
 from scipy.io.wavfile import write
 from numpy import mat
 from Model import ConvNet
-
 
 SAMPLE_RATE = 16000
 
