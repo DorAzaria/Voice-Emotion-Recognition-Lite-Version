@@ -1,5 +1,7 @@
 # Voice-Emotion-Recognition-Lite-Version
 
+For the preprocess and training notebooks [click here](https://github.com/DorAzaria/Voice-Emotion-Recognition)
+
 ### Sentiments
 For better accuracy results, we decided to focus on 3 different class labels.
 Each class is a combination of common emotions.
